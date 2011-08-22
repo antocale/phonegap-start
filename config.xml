@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>PhoneGap: Multimedia Service start</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Multimedia Service start with PhoneGap
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://mspweb.it"
+		email="job@mspweb.it">
+		Multimedia Service
 	</author>
 
 	<gap:platforms>
